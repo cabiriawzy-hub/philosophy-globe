@@ -4,7 +4,7 @@
 
 **当前阶段：P1 · 骨架**（10 个轴心时代思想，hover 可见详情）
 
-👉 在线演示：待 Vercel 部署后填入
+👉 在线演示：<https://philosophy-map.vercel.app>
 
 ## 本地运行
 
