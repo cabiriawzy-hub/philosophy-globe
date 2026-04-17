@@ -1,0 +1,37 @@
+# deps
+node_modules/
+.pnp
+.pnp.js
+
+# build
+dist/
+dist-ssr/
+*.local
+
+# editor
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# env
+.env
+.env.local
+.env.*.local
+
+# test
+coverage/
+.nyc_output/
+
+# superpowers workspace（brainstorming session、plans、specs 保留在 docs/）
+.superpowers/
+
+# vercel
+.vercel
