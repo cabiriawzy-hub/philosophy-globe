@@ -1,0 +1,102 @@
+[
+  {
+    "id": "socrates-elenchus",
+    "emoji": "💬",
+    "nameZh": "苏格拉底诘问法",
+    "nameEn": "Socratic Elenchus",
+    "philosopher": "苏格拉底",
+    "year": -400,
+    "location": { "lat": 37.9838, "lng": 23.7275, "placeName": "雅典" },
+    "shortDescription": "通过不断追问检验对方信念，让\"自认为懂\"的人暴露矛盾，再自己走向真知。哲学作为对话从此诞生。"
+  },
+  {
+    "id": "plato-forms",
+    "emoji": "🏛️",
+    "nameZh": "理念论",
+    "nameEn": "Theory of Forms",
+    "philosopher": "柏拉图",
+    "year": -380,
+    "location": { "lat": 37.9908, "lng": 23.7033, "placeName": "雅典学院" },
+    "shortDescription": "我们眼中的世界是影子，真正的实在是超越时空的\"理念\"。桌子是桌子，是因为分享了\"桌子的理念\"。"
+  },
+  {
+    "id": "aristotle-virtue-ethics",
+    "emoji": "❤️",
+    "nameZh": "德性伦理学",
+    "nameEn": "Virtue Ethics",
+    "philosopher": "亚里士多德",
+    "year": -340,
+    "location": { "lat": 37.9908, "lng": 23.7033, "placeName": "吕克昂" },
+    "shortDescription": "幸福（eudaimonia）不是一种感觉，而是一生都按德性行事的状态。中庸是核心：勇敢在鲁莽和怯懦之间。"
+  },
+  {
+    "id": "confucius-ren",
+    "emoji": "🤝",
+    "nameZh": "仁",
+    "nameEn": "Ren (Benevolence)",
+    "philosopher": "孔子",
+    "year": -500,
+    "location": { "lat": 35.5970, "lng": 116.9927, "placeName": "曲阜" },
+    "shortDescription": "仁者爱人。克己复礼为仁。道德的根基不是神，不是法，是人对人的真情——\"己所不欲，勿施于人\"。"
+  },
+  {
+    "id": "laozi-wuwei",
+    "emoji": "🍃",
+    "nameZh": "无为",
+    "nameEn": "Wu Wei (Non-action)",
+    "philosopher": "老子",
+    "year": -550,
+    "location": { "lat": 34.7466, "lng": 113.6253, "placeName": "郑州（传说出生地）" },
+    "shortDescription": "最高明的治理不是强行干预，而是顺应自然。道生万物而不居功。水看起来最柔弱，却能穿透一切。"
+  },
+  {
+    "id": "mozi-jianai",
+    "emoji": "🕊️",
+    "nameZh": "兼爱",
+    "nameEn": "Universal Love",
+    "philosopher": "墨子",
+    "year": -450,
+    "location": { "lat": 34.7466, "lng": 113.6253, "placeName": "宋国" },
+    "shortDescription": "爱所有人，如同爱自己的亲人。对儒家\"爱有差等\"的直接反驳。是东亚最早的普世主义伦理。"
+  },
+  {
+    "id": "buddha-four-noble-truths",
+    "emoji": "🧘",
+    "nameZh": "四圣谛",
+    "nameEn": "Four Noble Truths",
+    "philosopher": "释迦牟尼",
+    "year": -528,
+    "location": { "lat": 24.6951, "lng": 84.9914, "placeName": "菩提伽耶" },
+    "shortDescription": "苦、集、灭、道。人生本苦，苦源于欲，欲可灭尽，路径是八正道。整个佛教哲学的公理系统。"
+  },
+  {
+    "id": "upanishads-atman-brahman",
+    "emoji": "🌌",
+    "nameZh": "梵我合一",
+    "nameEn": "Atman = Brahman",
+    "philosopher": "奥义书传统",
+    "year": -700,
+    "location": { "lat": 25.3176, "lng": 82.9739, "placeName": "瓦拉纳西" },
+    "shortDescription": "个体灵魂（Atman）与宇宙本源（Brahman）本质上是同一个。所谓修行，就是认出这个同一性。"
+  },
+  {
+    "id": "zarathustra-dualism",
+    "emoji": "🔥",
+    "nameZh": "善恶二元",
+    "nameEn": "Cosmic Dualism",
+    "philosopher": "琐罗亚斯德",
+    "year": -1000,
+    "location": { "lat": 37.5665, "lng": 61.1788, "placeName": "古波斯（巴尔赫）" },
+    "shortDescription": "宇宙是光明神与黑暗神的战场。人的每个选择都在加入其中一方。后来深刻影响犹太-基督教传统。"
+  },
+  {
+    "id": "heraclitus-flux",
+    "emoji": "🌊",
+    "nameZh": "万物流变",
+    "nameEn": "Panta Rhei (Flux)",
+    "philosopher": "赫拉克利特",
+    "year": -500,
+    "location": { "lat": 37.9411, "lng": 27.3416, "placeName": "以弗所" },
+    "shortDescription": "人不能两次踏入同一条河。变化是唯一的常态，而推动变化的是\"对立的统一\"——后来黑格尔辩证法的远祖。"
+  }
+]
