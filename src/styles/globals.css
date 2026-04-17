@@ -1,1 +1,43 @@
-/* 主题变量和 reset 在 Task 3 填入 */
+:root {
+  --bg-deep: #05080f;
+  --bg-surface: #0a0f1c;
+  --bg-elevated: #111829;
+  --fg-primary: #e8ecf5;
+  --fg-secondary: rgba(232, 236, 245, 0.7);
+  --fg-tertiary: rgba(232, 236, 245, 0.45);
+  --accent: #6aa9ff;
+  --accent-glow: rgba(106, 169, 255, 0.35);
+  --border: rgba(255, 255, 255, 0.1);
+
+  --font-cn: "Source Han Serif SC", "Noto Serif CJK SC", "Songti SC", serif;
+  --font-en: "Inter", -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
+  --font-mono: "JetBrains Mono", "SF Mono", Menlo, monospace;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: var(--bg-deep);
+  color: var(--fg-primary);
+  font-family: var(--font-en), var(--font-cn);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow: hidden;
+}
+
+button {
+  font-family: inherit;
+  color: inherit;
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}
+
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
